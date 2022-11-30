@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Suma.dir/Suma_vectores.cc.o CMakeFiles/Suma.dir/Suma-function.cc.o CMakeFiles/Suma.dir/tools.cc.o  -o Suma 

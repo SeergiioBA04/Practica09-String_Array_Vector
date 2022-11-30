@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/Practica09-String_Array_Vector/Max_Min_Promedio/Max_min-function.cc
+iostream
+-
+algorithm
+-
+vector
+-
+Max_min-function.h
+/home/usuario/Practica09-String_Array_Vector/Max_Min_Promedio/Max_min-function.h
+
+/home/usuario/Practica09-String_Array_Vector/Max_Min_Promedio/Max_min-function.h
+
+/home/usuario/Practica09-String_Array_Vector/Max_Min_Promedio/Max_min.cc
+iostream
+-
+algorithm
+-
+vector
+-
+Max_min-function.h
+/home/usuario/Practica09-String_Array_Vector/Max_Min_Promedio/Max_min-function.h
+tools.h
+/home/usuario/Practica09-String_Array_Vector/Max_Min_Promedio/tools.h
+
+/home/usuario/Practica09-String_Array_Vector/Max_Min_Promedio/tools.h
+

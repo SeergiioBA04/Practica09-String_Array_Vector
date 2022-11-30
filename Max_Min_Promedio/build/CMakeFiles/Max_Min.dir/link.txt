@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Max_Min.dir/Max_min-function.cc.o CMakeFiles/Max_Min.dir/Max_min.cc.o CMakeFiles/Max_Min.dir/tools.cc.o  -o Max_Min 

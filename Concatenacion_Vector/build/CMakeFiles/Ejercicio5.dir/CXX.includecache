@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/Practica09-String_Array_Vector/Ejercicio5/Generate_Vector-function.h
+
+/home/usuario/Practica09-String_Array_Vector/Ejercicio5/Generate_Vector.cc
+iostream
+-
+vector
+-
+Generate_Vector-function.h
+/home/usuario/Practica09-String_Array_Vector/Ejercicio5/Generate_Vector-function.h
+tools.h
+/home/usuario/Practica09-String_Array_Vector/Ejercicio5/tools.h
+
+/home/usuario/Practica09-String_Array_Vector/Ejercicio5/tools.h
+
