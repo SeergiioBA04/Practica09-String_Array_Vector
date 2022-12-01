@@ -1,3 +1,0 @@
-/home/usuario/Practica09-String_Array_Vector/suma_vector/build/CMakeFiles/rebuild_cache.dir
-/home/usuario/Practica09-String_Array_Vector/suma_vector/build/CMakeFiles/edit_cache.dir
-/home/usuario/Practica09-String_Array_Vector/suma_vector/build/CMakeFiles/Suma.dir

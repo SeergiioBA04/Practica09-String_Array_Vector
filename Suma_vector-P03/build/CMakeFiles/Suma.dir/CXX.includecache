@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/Suma-function.cc
+iostream
+-
+vector
+-
+Suma-function.h
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/Suma-function.h
+
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/Suma-function.h
+
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/Suma_vectores.cc
+iostream
+-
+vector
+-
+Suma-function.h
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/Suma-function.h
+tools.h
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/tools.h
+
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/tools.cc
+iostream
+-
+tools.h
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/tools.h
+
+/home/usuario/Practica09-String_Array_Vector/Suma_vector-P03/tools.h
+

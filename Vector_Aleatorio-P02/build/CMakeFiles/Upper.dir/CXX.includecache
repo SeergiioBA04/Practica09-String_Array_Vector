@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/Upper_Lower-function.cc
+cstdlib
+-
+iostream
+-
+time.h
+-
+vector
+-
+Upper_Lower-function.h
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/Upper_Lower-function.h
+tools.h
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/tools.h
+
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/Upper_Lower-function.h
+
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/Upper_Lower.cc
+cstdlib
+-
+iostream
+-
+time.h
+-
+vector
+-
+Upper_Lower-function.h
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/Upper_Lower-function.h
+tools.h
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/tools.h
+
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/tools.cc
+iostream
+-
+tools.h
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/tools.h
+
+/home/usuario/Practica09-String_Array_Vector/Vector_Aleatorio-P02/tools.h
+
